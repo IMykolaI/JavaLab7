@@ -1,4 +1,4 @@
-package main.java.ua.lviv.iot.regex.text.filter;
+package ua.lviv.iot.regex.text.filter;
 
 import java.io.BufferedReader;
 import java.io.IOException;
